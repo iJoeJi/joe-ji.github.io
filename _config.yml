@@ -1,13 +1,13 @@
 # Site settings
-name: 就是没有名字
+name: About Blank
 email: joe-ji@outlook.com
 author: Joe Ji
 url: http://www.joeji.org
 resume_site: 
 github: https://github.com/joe-ji
 baseurl: 
-description: 闲来无事扯扯淡:P
-meta_description: 个人博客;
+description: Just for fun.:P
+meta_description: blog,个人博客;
 motto: 
 banner: 
 
