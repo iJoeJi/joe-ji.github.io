@@ -1,12 +1,12 @@
 # Site settings
-name: About Blank
-email: joe-ji@outlook.com
+name: Joe's Blog
+email: joeji.org@gmail.com
 author: Joe Ji
 url: http://www.joeji.org
 resume_site: 
 github: https://github.com/joe-ji
 baseurl: 
-description: Just for fun.:P
+description: Just a empty blog template. :P
 meta_description: blog,个人博客;
 motto: 
 banner: 
@@ -17,7 +17,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: joe-ji@outlook.com
+github_username: joe-ji
 highlighter: Pygments
 
 # Build settings
